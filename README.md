@@ -1,0 +1,2 @@
+# Pterodactyl-Nodejs-egg
+HaZeyHosting
