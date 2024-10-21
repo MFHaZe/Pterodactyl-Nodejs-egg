@@ -7,7 +7,7 @@
     "exported_at": "2024-10-21T00:46:56+00:00",
     "name": "HaZeyHosting Node.js Egg",
     "author": "mfhaze@hazeyhosting.com",
-    "description": null,
+    "description": "Used by HaZeyHosting.com",
     "features": null,
   "docker_images": {
     "Nodejs 21": "ghcr.io/parkervcp/yolks:nodejs_21",
