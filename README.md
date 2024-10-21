@@ -1,9 +1,5 @@
 # Pterodactyl-Nodejs-egg
-HaZeyHosting
-
-
-
-The NodeJS egg for Pterodactyl provides support for running Node.js applications within the Pterodactyl game management panel. One of its key features is the ability to set a custom startup command, offering greater flexibility and control over how your Node.js applications are launched. This feature is especially useful for users who need to specify particular arguments, flags, or environment variables during startup.
+HaZeyHosting NodeJS egg for Pterodactyl provides support for running Node.js applications within the Pterodactyl game management panel. One of its key features is the ability to set a custom startup command, offering greater flexibility and control over how your Node.js applications are launched. This feature is especially useful for users who need to specify particular arguments, flags, or environment variables during startup.
 
 By using this egg, you can easily configure your server to run any Node.js script, whether it’s a game server, bot, or other application. The custom startup command functionality allows for precise tailoring of the server’s execution environment, making it ideal for more complex use cases where default settings may not be sufficient.
 
