@@ -5,9 +5,9 @@
         "update_url": null
     },
     "exported_at": "2024-10-21T00:46:56+00:00",
-    "name": "HaZeyHosting Node.js Egg",
-    "author": "mfhaze@hazeyhosting.com",
-    "description": "Used by HaZeyHosting.com",
+    "name": "KesorCloud Node.js Egg",
+    "author": "mfhaze@KesorCloud.com",
+    "description": "Used by KesorCloud.com",
     "features": null,
   "docker_images": {
     "Nodejs 21": "ghcr.io/parkervcp/yolks:nodejs_21",
@@ -21,7 +21,7 @@
 
   },
     "file_denylist": [],
-    "startup": "clear; echo -e \"---------------[ This server is powered by www.HaZeyHosting.com ]---------------\\n\"; [ ! -d node_modules ]&&npm install||echo \"Using existing node_modules, delete to reinstall.\"; {{STARTUPSCRIPT}}",
+    "startup": "clear; echo -e \"---------------[ This server is powered by www.KesorCloud.com ]---------------\\n\"; [ ! -d node_modules ]&&npm install||echo \"Using existing node_modules, delete to reinstall.\"; {{STARTUPSCRIPT}}",
     "config": {
         "files": "{}",
         "startup": "{\r\n    \"done\": [\r\n        \":\/home\/container$\",\r\n        \"STARTUP \/home\/container\"\r\n    ]\r\n}",
